@@ -2,7 +2,7 @@
 ##### 必备
 1. Key Pronmoter X  快捷键提示
 1. Alibaba java Coding Guidelines 阿里巴巴java开发手册
-1. Material Theme UI 我喜欢的一款主题
+1. Dracula Theme  吸血鬼主题 我喜欢的一款主题
 1. Translation 翻译插件
 1. AiXcode Code Completer 代码提示
 1. HighlightBracketPair 每一对的括号颜色不同
